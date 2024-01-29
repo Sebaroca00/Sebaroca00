@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola, Bienvenido!
+
+Si estas buscando un programador lleno de entusiasmo y conocimientos estas en el lugar adecuado.
+
+Conmigo en tu equipo contaras con alguien sumamente profesional y versatil para cualquier tarea, comprometido con el proyecto y el equipo.
+
+Habilidades Técnicas:
+✅ React.js
+✅ Material UI
+✅ Express
+✅ PostgreSQL
+✅ MySQL
+✅ CSS
+✅ Git
+✅ Postman
+
+Motivaciones: 
+
+Desde que comencé con la programación, me di cuenta de las puertas y las posibilidades que este campo me abriría. En poco tiempo, decidí qué quería ser en el futuro. Los inconvenientes y obstáculos que surgen durante la creación de proyectos no son más que motivación para seguir aprendiendo y creciendo en este hermoso mundo de la programación.
+
+Mi Pasado:
+
+Desde muy joven, alrededor de los 16 años, siempre opté por mi independencia económica, lo que me llevó a buscar trabajo y encontrar la forma de sostener mis gastos por mi cuenta. Comencé trabajando en un distribuidor de bebidas familiar, luego incursioné en el sector industrial en una fundición de bronces, y finalmente, me desempeñé en el sector comercial, enfocado en la atención al cliente y las ventas.
+
