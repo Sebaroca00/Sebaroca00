@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hola, Bienvenido!
-
 Si estas buscando un programador lleno de entusiasmo y conocimientos estas en el lugar adecuado.
 
 Conmigo en tu equipo contaras con alguien sumamente profesional y versatil para cualquier tarea, comprometido con el proyecto y el equipo.
@@ -38,3 +36,7 @@ Mi Pasado:
 
 Desde muy joven, alrededor de los 16 años, siempre opté por mi independencia económica, lo que me llevó a buscar trabajo y encontrar la forma de sostener mis gastos por mi cuenta. Comencé trabajando en un distribuidor de bebidas familiar, luego incursioné en el sector industrial en una fundición de bronces, y finalmente, me desempeñé en el sector comercial, enfocado en la atención al cliente y las ventas.
 
+¡Mantengámonos en contacto! 🤜🏼 🤛🏼 🚀
+
+Correo: sebaroca00@gmail.com
+Linkedin: www.linkedin.com/in/luciano-sebastian-roca-4711322a2
